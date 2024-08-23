@@ -1,0 +1,10 @@
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+.custom-bg {
+    background-color: #f8f9fa;
+}
+.custom-text {
+    color: #343a40;
+}
